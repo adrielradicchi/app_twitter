@@ -2,3 +2,5 @@
 /deps
 erl_crash.dump
 *.ez
+/.elixir__ls
+\.elixir_ls/build/test/lib/app_twitter/\.mix/compile\.elixir
