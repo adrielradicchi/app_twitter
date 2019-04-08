@@ -1,8 +1,9 @@
 /_build
 /deps
-erl_crash.dump
-*.ez
 /.elixir__ls
 /AppTwitter
 /config
 \.elixir_ls/
+erl_crash.dump
+*.ez
+config/config.exs
